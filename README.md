@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Weeranieb
-- 👀 I’m interested in Golang, Python ,and Mobile Dev
-- 🌱 I’m currently learning Golang
+- 👋 Hi, I’m @Weeranieb Backend Dev (GO) at Fastinspect.co
+- 👀 I’m interested in Golang, Docker, and Backend
+- 🌱 I’m currently learning Docker
 - 📫 How to reach me IG: nieghbor
 
 <!---
