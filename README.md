@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @Weeranieb Backend Dev (GO) at Fastinspect.co
-- 👀 I’m interested in Golang, Docker,K8s, AWS and all backend things
-- 🌱 I’m currently learning AWS
-- 📫 How to reach me IG: nieghbor
+# 💫 About Me:
+Hi there 👋<br><br>I'm Nieb.<br><br>I'm a Golang and React.js developer looking for a job.
+
 
 <!---
 Weeranieb/Weeranieb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
